@@ -1,3 +1,6 @@
+//Created by Nishant Chaudhary
+//https://github.com/ChaudharyNishant
+
 package sample;
 
 import com.googlecode.javacv.cpp.opencv_core.IplImage;
@@ -39,3 +42,6 @@ public class Record
         cvReleaseCapture(capture);
 	}
 }
+
+//Created by Nishant Chaudhary
+//https://github.com/ChaudharyNishant

@@ -1,3 +1,6 @@
+//Created by Nishant Chaudhary
+//https://github.com/ChaudharyNishant
+
 package sample;
 
 import com.googlecode.javacv.cpp.opencv_core.IplImage;
@@ -219,3 +222,6 @@ public class Main
 			changed = false;
 	}
 }
+
+//Created by Nishant Chaudhary
+//https://github.com/ChaudharyNishant

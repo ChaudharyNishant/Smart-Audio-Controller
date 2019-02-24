@@ -7,4 +7,4 @@ The camera should not move during the recording or live webcam video and the fir
 
 [nircmd](http://www.nirsoft.net/utils/nircmd.html) is used to run the command to change the volume.
 
-[Check out how it works here](https://drive.google.com/open?id=1dIm5MY_NTSMaGJf3kGIJ_IzxvRrMZzEH)
+[Check out how it works here](https://youtu.be/MjltJLwSf1Q)

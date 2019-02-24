@@ -5,4 +5,6 @@ It takes in the video input or pre-recorded video and controls the audio of the 
 
 The camera should not move during the recording or live webcam video and the first frame should only consist the background and not the person.
 
+[nircmd](http://www.nirsoft.net/utils/nircmd.html) is used to run the command to change the volume.
+
 [Check out how it works here](https://drive.google.com/open?id=1dIm5MY_NTSMaGJf3kGIJ_IzxvRrMZzEH)
